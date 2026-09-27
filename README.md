@@ -1,1 +1,1 @@
-Kubernetes deployment instructions
+Prometheus monitoring instructions
