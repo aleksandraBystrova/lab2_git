@@ -1,1 +1,1 @@
-it is read me
+Kubernetes deployment instructions
