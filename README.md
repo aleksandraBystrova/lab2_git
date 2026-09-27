@@ -1,1 +1,1 @@
-Kubernetes deployment instructions
+Kubernetes deployment configuration
