@@ -1,5 +1,4 @@
-<<<<<<< HEAD
 Kubernetes deployment configuration
-=======
-Prometheus monitoring instructions
+
+Monitoring configurationPrometheus monitoring instructions
 >>>>>>> feature/monitoring
